@@ -1,0 +1,35 @@
+
+  .home-text-section {
+    position: absolute;
+    width: 100%;
+    top: 100px;
+    left: 60px ;
+    text-align: left;
+    /* margin-left: 100px; */
+    color: rgb(253, 253, 253);
+  }
+  .primary-Heading{
+    position: absolute;
+    top: 2px;
+    left: 495px ;
+    font-size: 1.8rem;
+    font-weight: bolder;
+  }
+  .secondary-Heading{
+   font-weight: bolder;
+  }
+  .button{
+    position:absolute;
+    top: 400px;
+    left: 500px;
+    background-color: black;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    
+  }
+  .button:hover{
+    background-color: white;
+    color: black;
+  }
+ 
